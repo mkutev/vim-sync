@@ -1,1 +1,2 @@
-# vim-sync, second try.
+# Vim-Sync, second try.
+
