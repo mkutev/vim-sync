@@ -1,3 +1,11 @@
-[submodule "bundle/airline"]
-	path = bundle/airline
-	url = ./bundle/vim-airline/
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git 
+
+[submodule "bundle/vim-css-color"]
+	path = bundle/vim-css-color
+	url = https://github.com/ap/vim-css-color.git
+
+[submodule "bundle/vim-vinegar"]
+	path = bundle/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar 
