@@ -1,3 +1,6 @@
+set nocompatible
+set hidden
+set encoding=utf-8
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
@@ -7,7 +10,7 @@ let g:rehash256 = 0
 set breakindent
 let g:airline#extensions#tabline#formatter = 'unique_tail'
 set t_Co=256
-set background=dark
+set background=light
 colorscheme PaperColor
 autocmd BufEnter * silent! lcd %:p:h
 
