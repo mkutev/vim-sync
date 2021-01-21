@@ -1,4 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/var/www'
-let g:netrw_dirhist_2='/var/www/html'
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/root/.vim'
+let g:netrw_dirhist_3='/root'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_1='/run'
+let g:netrw_dirhist_0='/'
+let g:netrw_dirhist_9='/mnt'
+let g:netrw_dirhist_8='/mnt/c'
+let g:netrw_dirhist_7='/mnt/c/Users'
+let g:netrw_dirhist_6='/mnt/c/Users/voltbike'
+let g:netrw_dirhist_5='/mnt/c/Users/voltbike/Desktop'
