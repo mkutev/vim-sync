@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
+<<<<<<< HEAD
 let g:netrw_dirhistcnt =7
 let g:netrw_dirhist_7='/root/.vim'
 let g:netrw_dirhist_6='/root'
@@ -10,3 +11,7 @@ let g:netrw_dirhist_1='/mnt/c/Users/voltbike'
 let g:netrw_dirhist_0='/mnt/c/Users/voltbike/MicrosoftEdgeBackups'
 let g:netrw_dirhist_9='/mnt/c/Users/voltbike/MicrosoftEdgeBackups/backups'
 let g:netrw_dirhist_8='/mnt/c/Users/voltbike/MicrosoftEdgeBackups/backups/MicrosoftEdgeBackup20200413'
+=======
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/root/.vim'
+>>>>>>> 83b3f080a9820aa0c308429184c1ff850e0cb7b6
